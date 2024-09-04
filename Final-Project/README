@@ -4,5 +4,6 @@ Developed a Python-based geospatial analysis tool to examine voter distribution 
 - Filtering voter data by political party and visualizing distributions by school district.
 - Implementing multiprocessing to handle large datasets efficiently.
 - Generating comprehensive visual reports detailing voter density and percentages across different school levels.
+- Python file located in 'Code' folder
 
 **Technologies Used**: Python, GeoPandas, Matplotlib, NumPy, Multiprocessing
