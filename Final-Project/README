@@ -1,0 +1,8 @@
+**Pitt County Voter Analysis**    
+Developed a Python-based geospatial analysis tool to examine voter distribution by party affiliation across school districts in Pitt County, NC. The project involved:
+- Loading and converting geospatial data for voter analysis.
+- Filtering voter data by political party and visualizing distributions by school district.
+- Implementing multiprocessing to handle large datasets efficiently.
+- Generating comprehensive visual reports detailing voter density and percentages across different school levels.
+
+**Technologies Used**: Python, GeoPandas, Matplotlib, NumPy, Multiprocessing
